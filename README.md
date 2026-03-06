@@ -1,4 +1,4 @@
-## `spikes.ipynb`
+## `spikes_domian_exploration.ipynb`
 
 This notebook:
 
